@@ -1,4 +1,4 @@
 # DIO-desafio-github-primeiro-repositorio
-desafio de projeto sobre Git/GitHub
+Repositorio  criado para o desafio de projeto
 ## Links ute
 [sintaxe Basica Markdown](https://www.markdownguide.org/getting-started/)
